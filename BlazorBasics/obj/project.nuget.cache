@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CoH+m9PhaOuuBvzhLkIN0LDHtAsz/SwPIfT23nmWtwRn0Rls2R/K5l+S+VK5zYUwgzXhZ5fryQFnQu7n3lU7Rg==",
+  "dgSpecHash": "vJAppCoLBTS0oPFDuwwiJPg2XuaMVQI7+U6giNufe4RX3lQIyHrwbrUMXdVww0el1Iuas9AwS9uBRTXGk/CYZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\BlazorBasics.csproj",
+  "projectFilePath": "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\BlazorBasics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\puyok\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\puyok\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

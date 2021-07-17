@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\BlazorBasics.csproj": {}
+    "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\BlazorBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\BlazorBasics.csproj": {
+    "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\BlazorBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\BlazorBasics.csproj",
+        "projectUniqueName": "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\BlazorBasics.csproj",
         "projectName": "BlazorBasics",
-        "projectPath": "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\BlazorBasics.csproj",
+        "projectPath": "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\BlazorBasics.csproj",
         "packagesPath": "C:\\Users\\puyok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\puyok\\source\\repos\\BlazorBasics\\BlazorBasics\\obj\\",
+        "outputPath": "C:\\Users\\puyok\\source\\repos\\Blazor\\BlazorBasics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\puyok\\AppData\\Roaming\\NuGet\\NuGet.Config",
